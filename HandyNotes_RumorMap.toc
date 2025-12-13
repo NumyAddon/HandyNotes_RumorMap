@@ -1,4 +1,7 @@
-## Interface: @toc-version-retail@,@toc-version-midnight@,120000
+## Interface: @toc-version-midnight@, @toc-version-retail@
+#@debug@
+## Interface: 120000
+#@end-debug@
 ## Title: Handynotes - RumorMap
 ## Notes: Shows Azj-Kahet Rumor Brokers and Pact treasures on the map
 ## IconAtlas: notoriety-32x32
